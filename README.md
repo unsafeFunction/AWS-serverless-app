@@ -2,7 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+<<<<<<< HEAD
 In the project directory, you can run:
+=======
+In the project directory, you can run:  
+>>>>>>> 87523cf (Add eslint and prettier configs)
 You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
