@@ -37,7 +37,7 @@ const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           color="textSecondary"
           component="p"
         >
-          Thank you for your purchase!
+          Thank you for your purchase! And test s3 deploy with serverless
         </Typography>
         <Copyright />
       </Box>
